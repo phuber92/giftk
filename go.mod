@@ -1,3 +1,3 @@
-module github.com/phuber92/gift
+module github.com/phuber92/giftk
 
 go 1.20
